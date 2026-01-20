@@ -17,11 +17,11 @@
         <v-divider />
         <p>
             <center>Jump To:</center>
-            <center><a href="#mod-health">Mod Health</a> &emsp; <a href="#personal-notes">Personal Notes</a> &emsp; <a href="#catalog">Catalog</a> &emsp; <a href="#mod-hound">Mod Hound</a> &emsp; <a href="#archivist">Archivist</a> &emsp; <a href="#parlay">Parlay</a> &emsp; <a href="#pack-selector">Pack Selector</a></center>
+            <center><a href="#mod-health">Mod Health</a> &emsp; <a href="#personal-notes">Personal Notes</a> &emsp; <a href="#catalog">Catalog</a> &emsp; <a href="#mod-hound">Mod Hound</a> &emsp; <a href="#archivist">Archivist</a> &emsp; <a href="#parlay">Parlay</a> &emsp; <a href="#pack-selector">Pack Selector</a> &emsp; <a href="#runtime-mod-integration">Runtime Mod Integration</a></center>
         </p>
         <v-divider />
         <Markdown
-            :source="creatorFeaturesMarkdown" 
+            :source="casualFeaturesMarkdown" 
             class="standard-text"
         />
     </v-container>
@@ -29,5 +29,5 @@
 
 <script setup>
     import Markdown from 'vue3-markdown-it';
-    import creatorFeaturesMarkdown from './creator-features.md?raw';
+    import casualFeaturesMarkdown from './casual-features.md?raw';
 </script>

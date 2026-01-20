@@ -193,3 +193,6 @@ You can search Chronicles, at the top, and it will bring up all Chronicles with 
 You can also search within a Chronicle, and it will bring up any Snapshot with your search term.
 
 ![image](/img/archivist-search.png "An image of Archivist being searched for `deca` with two Chronicles showing, both starting with Decades, and a Chronicle's Snapshots being searched for 'vero' with one result, which has the note `Veronica is now the nanny.`")
+
+### Save Defects
+
