@@ -103,7 +103,7 @@ Here are certain things that PlumbBuddy does by default that you can turn off, a
 
 Once you’ve made a decision, click Finish on the bottom right.
 
-![image](/img/PB-PB%20settings.png "An image of the PlumbBuddy app settings, with 'Automatically check for updates' toggled off, 'Offer to find mod update news when the game is patched' and 'Enable runtime mod integration' toddled on, and 'Show an icon in the system tray' toggled off")
+![image](/img/PB-PB-settings.png "An image of the PlumbBuddy app settings, with 'Automatically check for updates' toggled off, 'Offer to find mod update news when the game is patched' and 'Enable runtime mod integration' toddled on, and 'Show an icon in the system tray' toggled off")
 
 And we're done!
 
