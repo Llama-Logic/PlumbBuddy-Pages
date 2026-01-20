@@ -135,12 +135,15 @@ To the right, are three buttons. From top to bottom, they are:
 
 If you click Edit this Chronicle’s Details (the pencil), you have new options.
 
-* You can set the Name for the Chronicle, as seen in Archivist. In the image below, the Chronical will be called `Test Save for Archivist` *in Archivist*
+* You can set the Name for the Chronicle, as seen in Archivist. In the image below, the Chronical will be called `Career Legacy` *in Archivist*
 * You can write Notes about the Chronicle.
-* You can set a Game Name Override, which will set the name of all Snapshots in this Chronicle in game going forward. This save will be called `Annabel's Shenanigans` *in game*. Each time I click save, or each time MC Command Center creates and auto save, the name in game will be overwritten with that.
+* You can set a Game Name Override, which will set the name of all Snapshots in this Chronicle in game going forward. This save will be called `Career Legacy` *in game*. Each time I click save, or each time MC Command Center creates and auto save, the name in game will be overwritten with that.
 * You can pick an image to use as the Thumbnail for this Chronicle from your computer. Thumbnails set by the game are 180x120 pixels. The ideal dimensions for a thumbnail are multiples of 3 wide x 2 high, which will be scaled by the game. If you go too large, Archivist will scale the image down. If you go too far outside 3x2, your image will not fit neatly in the box in game, but should still work. You can also choose the thumbnail from any existing Snapshot to use for the Chronicle, but that will be shown below.
+  * If you don't choose a thumbnail, the default thumbnail in Archivist will be the thumbnail used in game, and will change as you play.
+* You can turn on or off scans for save file defects.
+  * Siblings with Romantic Relationship - designed to find a game bug where sims who are married or otherwise in a romantic relationship spontaneously become siblings.
 
-![image](/img/archivist-chronicle-details.png "An image of the Edit Details section of a Chronicle open. At the top is a warning that `Changes you make here take effect immediately, whether or not you've clicked the check.` Below that is a box titled Name with the name `Test Save for Archivist.` Under that is a box for Notes that says `Time to show off all the fun stuff Annabel can get up to.` Then there's a box titles Game Name Override, which says `Annabel's Shenanigans,` under which it says `I will set the save's game name to whatever you enter here, if you enter something, so that you can easily distinguish this chronicle's saves when loading in The Sims 4.` At the bottom is a box for Custom Thumbnail with a picture of a vault above a Browse button. At the top right is a search box, and below that are three buttons. The top button is the checkmark referenced in the warning.")
+![image](/img/archivist-chronicle-details.png "An image of the Edit Details section of a Chronicle open. At the top is a warning that `Changes you make here take effect immediately, whether or not you've clicked the check.` Below that is a box titled Name. Under that is a box for Notes. Then there's a box titles Game Name Override, under which it says `I will set the save's game name to whatever you enter here, if you enter something, so that you can easily distinguish this chronicle's saves when loading in The Sims 4.` Below that is a box for Custom Thumbnail with a picture of a vault above a Browse button. At the bottom is Save File Defects, which has one option, in red, that says Siblings with Romantic Relationship, and underneath sasy 'You can toggle watching for certain defects on or off specifically for this chronicle. This can be useful if you've triggered any of them purposefully.' At the top right is a search box, and below that are three buttons. The top button is the checkmark referenced in the warning.")
 
 After you get this section how you want it, you can choose to apply the Game Name Override and Thumbnail to all Snapshots currently in your saves folder using the middle button on the right, or to just use it going forward.
 
@@ -193,6 +196,3 @@ You can search Chronicles, at the top, and it will bring up all Chronicles with 
 You can also search within a Chronicle, and it will bring up any Snapshot with your search term.
 
 ![image](/img/archivist-search.png "An image of Archivist being searched for `deca` with two Chronicles showing, both starting with Decades, and a Chronicle's Snapshots being searched for 'vero' with one result, which has the note `Veronica is now the nanny.`")
-
-### Save Defects
-

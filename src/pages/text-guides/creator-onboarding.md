@@ -129,6 +129,10 @@ Below that are a series of toggles:
 * You can turn off runtime integration.
     * This will create two files in your Mods folder, a package and a script. They will make the information PlumbBuddy has about the mods installed in your Mods folder available so that other mods can make use of it, and allow script mods to make use of PlumbBuddy's Relational Data Storage and UI Bridges.
 ![image](/img/enable-runtime.png "Enable runtime mod integration")
+* You can turn on keystroke monitoring.
+![image](/img/enable-keystroke.png "Allow mods to monitor keystrokes")
+* You can turn the in-game notification that happens when a mod starts tracking keystrokes, which is on by default. This can only be turned off or used if keystroke monitoring is on.
+![image](/img/disable-keystroke-notif.png "Notify in-game when mods make keystroke monitoring requests")
 * You can turn on PlumbBuddy having an icon in the system tray on Windows.
 ![image](/img/show-icon-tray.png "Show an icon in the system tray")
 

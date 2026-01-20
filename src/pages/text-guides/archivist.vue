@@ -14,7 +14,7 @@
         <v-divider />
         <p>
             <center>Jump To:</center>
-            <center><a href="#the-vocabulary">The Vocabulary</a> &emsp; <a href="#turning-on-archivist">Turning on Archivist</a> &emsp; <a href="#chronicles">Chronicles</a> &emsp; <a href="#snapshots">Snapshots</a> &emsp; <a href="#live-snapshots-and-mods">Live Snapshots and Mods</a> &emsp; <a href="#searching">Searching</a> &emsp; <a href="#save-defects">Save Defects</a></center>
+            <center><a href="#the-vocabulary">The Vocabulary</a> &emsp; <a href="#turning-on-archivist">Turning on Archivist</a> &emsp; <a href="#chronicles">Chronicles</a> &emsp; <a href="#snapshots">Snapshots</a> &emsp; <a href="#live-snapshots-and-mods">Live Snapshots and Mods</a> &emsp; <a href="#searching">Searching</a></center>
         </p>
         <v-divider />
         <Markdown
