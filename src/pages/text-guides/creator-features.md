@@ -41,7 +41,6 @@ If you go to the Catalog tab, you’ll see all of the mods you currently have in
 * Packs the mod requires (in green on the default theme)
 * Packs the mod cannot be used with (in red on the default theme)
 * Packs that the creator says will make using the mod better (in blue on the default theme)
-* A link to support the mod creator
 * The files that are in the mod
 * Any extra mods that the mod requires, as long as they have manifests themselves (dependencies)
 * Any other mods that require the mod, as long as they have manifests themselves (dependants)
@@ -115,7 +114,7 @@ To learn more about Parlay as a mod creator, including how to incorporate transl
 
 ### [Pack Selector](https://plumbbuddy.app/features/pack-selector)
 
-Pack Selector lets you choose which of your installed packs will load without having to load into the game and then *reload* the game. If you choose to enable the toggle at the bottom left of the window, it will show you pack names, sort Stuff Packs and Kits separately, and show the value or selected and de-selected packs at their current full price in US dollars. Otherwise, you'll see the pack type (EP, GP, or SP for expansion/game/stuff pack; kits are a kind of stuff pack) and number along with its icon.
+Pack Selector lets you choose which of your installed packs will load without having to load into the game and then *reload* the game. If you choose to enable the toggle at the bottom left of the window, it will show you pack names and sort Stuff Packs and Kits separately. Otherwise, you'll see the pack type (EP, GP, or SP for expansion/game/stuff pack; kits are a kind of stuff pack) and number along with its icon.
 
 You can enable or disable all packs, all packs of a certain type, or whichever combination of packs you want.
 
