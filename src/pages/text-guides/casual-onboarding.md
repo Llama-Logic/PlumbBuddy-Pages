@@ -99,11 +99,13 @@ Here are certain things that PlumbBuddy does by default that you can turn off, a
 * You can turn on auto checking for PlumbBuddy updates, which is off by default. This would make sure that you always know if your PlumbBuddy app has all the latest features and bug fixes.
 * You can turn off offering to help you find mod update news after you’ve updated your game, which is on by default.
 * You can turn off runtime mod integration, which is on by default. This creates files that allow mods to use PlumbBuddy when you let them.
+* You can turn on allowing mods to track if you've pressed certain buttons on your keyboard, which is off by default. This can only be turned on and used if runtime mod integration is on.
+* You can turn off being notified in game when a mod starts tracking keystrokes, which is on by default. This can only be turned off or used if keystroke monitoring is on.
 * You can turn on PlumbBuddy having an icon in the system tray on Windows, which is off by default.
 
 Once you’ve made a decision, click Finish on the bottom right.
 
-![image](/img/PB-PB%20settings.png "An image of the PlumbBuddy app settings, with 'Automatically check for updates' toggled off, 'Offer to find mod update news when the game is patched' and 'Enable runtime mod integration' toddled on, and 'Show an icon in the system tray' toggled off")
+![image](/img/PB-PB-settings.png "An image of the PlumbBuddy app settings, with default settings")
 
 And we're done!
 

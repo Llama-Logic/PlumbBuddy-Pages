@@ -110,7 +110,7 @@ To learn more about Parlay, visit the [Parlay](https://plumbbuddy.app/text-guide
 
 ### [Pack Selector](https://plumbbuddy.app/features/pack-selector)
 
-Pack Selector lets you choose which of your installed packs will load without having to load into the game and then *reload* the game. If you choose to enable the toggle at the bottom left of the window, it will show you pack names and sort Stuff Packs and Kits separately. Otherwise, you'll see the pack type (EP, GP, or SP for expansion/game/stuff pack; kits are a kind of stuff pack) and number along with its icon.
+Pack Selector lets you choose which of your installed packs will load without having to load into the game and then *reload* the game. If you choose to enable the toggle at the bottom left of the window, it will show you pack names, sort Stuff Packs and Kits separately, and if you have ethe PlumbBuddy setting on, show the value of your selected and de-selected packs at full current price in US dollars. Otherwise, you'll see the pack type (EP, GP, or SP for expansion/game/stuff pack; kits are a kind of stuff pack) and number along with its icon.
 
 You can enable or disable all packs, all packs of a certain type, or whichever combination of packs you want.
 
@@ -132,6 +132,6 @@ Relational Data Storage (RDS) is storage accessible by script mods in two variet
 
 UI Bridges allow script mods to display visual elements outside the game, in PlumbBuddy, as essentially a sandboxed website without access to the internet. UI Bridges can make use of RDS and PlumbBuddy's ability to catalogue the game's strings and images, and are only permitted to operate when allowed by the player.
 
-This is also the feature that allows mods to know if you have a controller connected and what buttons you have pressed.
+This is also the feature that allows mods to know if you have a controller connected and what buttons you have pressed, and that allows mods to track if you press certain buttons on your keyboard.
 
 ![image](/img/PB-controller-monitoring.png "The hover information that appears when a player has a controller connected, showing which buttons are currently being pressed")
