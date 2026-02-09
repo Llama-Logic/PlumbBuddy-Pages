@@ -119,7 +119,6 @@ EP20:
   steam_stub: 3548850
   retail_usd: 39.99
 EP21:
-  # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
   english_name: Royalty & Legacy
   type: Expansion
   ea_stub: the-sims-4-royalty-and-legacy-grand-bundle
@@ -781,7 +780,6 @@ SP74:
 #   steam_stub: NYI
 #   retail_usd: 4.99
 SP76:
-  # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
   english_name: Silver Screen Style
   type: Kit
   kit_type: CAS
@@ -789,7 +787,6 @@ SP76:
   steam_stub: 3548690
   retail_usd: 0
 SP77:
-  # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
   english_name: Tea Time Solarium
   type: Kit
   kit_type: BuildBuy
