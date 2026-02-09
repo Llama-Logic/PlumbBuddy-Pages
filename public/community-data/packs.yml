@@ -771,14 +771,14 @@ SP74:
   is_creator_content: true
   steam_stub: 3765170
   retail_usd: 4.99
-SP75:
-  english_name: Wonderland Playroom
-  type: Stuff
-  sub_type: Kit
-  kit_type: BuildBuy
-  # ea_stub: NYI
-  # steam_stub: NYI
-  retail_usd: 4.99
+# SP75:
+#   english_name: Wonderland Playroom
+#   type: Stuff
+#   sub_type: Kit
+#   kit_type: BuildBuy
+#   ea_stub: NYI
+#   steam_stub: NYI
+#   retail_usd: 4.99
 SP76: # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
   english_name: Silver Screen Style
   type: Kit
@@ -802,12 +802,12 @@ SP81:
   is_creator_content: true
   steam_stub: 3985830
   retail_usd: 4.99
-SP82:
-  english_name: Yard Charm
-  type: Stuff
-  sub_type: Kit
-  kit_type: BuildBuy
-  # ea_stub: NYI
-  is_creator_content: true
-  # steam_stub: NYI
-  retail_usd: 4.99
+# SP82:
+#   english_name: Yard Charm
+#   type: Stuff
+#   sub_type: Kit
+#   kit_type: BuildBuy
+#   ea_stub: NYI
+#   is_creator_content: true
+#   steam_stub: NYI
+#   retail_usd: 4.99
