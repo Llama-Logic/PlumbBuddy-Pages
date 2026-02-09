@@ -117,7 +117,9 @@ Once you've made your decisions, click Next on the bottom right.
 
 Here are certain things that PlumbBuddy does by default that you can turn off, and things it doesn't do for you by default that you can turn on, and where you set your default creator name(s) that will auto populate in your manifests.
 
-At the top is an empty bar. Type in your creator name and hit enter. If you typically work with a team and want to have each person listed, you can type them all in and hit enter after each one. You can remove any that aren't working on a particular mod in that mod's manifest.
+At the top are two empty bars. Type in your creator name in the first one and hit enter. If you typically work with a team and want to have each person listed, you can type them all in and hit enter after each one. You can remove any that aren't working on a particular mod in that mod's manifest.
+
+In the second bar, you can enter a URL that will be shown in Catalog on your mods which mod users can go to to support you financially. If you enter it here, it will automatically be filled in for any manifests you make and any manifests you update, if they didn't already have a funding URL. You can change it in the manifest if you'd like.
 
 Below that are a series of toggles:
 
@@ -129,6 +131,10 @@ Below that are a series of toggles:
 * You can turn off runtime integration.
     * This will create two files in your Mods folder, a package and a script. They will make the information PlumbBuddy has about the mods installed in your Mods folder available so that other mods can make use of it, and allow script mods to make use of PlumbBuddy's Relational Data Storage and UI Bridges.
 ![image](/img/enable-runtime.png "Enable runtime mod integration")
+* You can turn on keystroke monitoring.
+![image](/img/enable-keystroke.png "Allow mods to monitor keystrokes")
+* You can turn the in-game notification that happens when a mod starts tracking keystrokes, which is on by default. This can only be turned off or used if keystroke monitoring is on.
+![image](/img/disable-keystroke-notif.png "Notify in-game when mods make keystroke monitoring requests")
 * You can turn on PlumbBuddy having an icon in the system tray on Windows.
 ![image](/img/show-icon-tray.png "Show an icon in the system tray")
 

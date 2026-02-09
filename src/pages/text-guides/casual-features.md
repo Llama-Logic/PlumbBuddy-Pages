@@ -37,10 +37,10 @@ If you go to the Catalog tab, you’ll see all of the mods you currently have in
 * The download URL for the mod
 * The name(s) of the creator(s)
 * An Ask for Help button to seek help with the mod, which will give you options to go to a support avenue specified by the creator if they listed one, or to go to a find general support
-* A link to support the creator financially
 * Packs the mod requires (in green on the default theme)
 * Packs the mod cannot be used with (in red on the default theme)
 * Packs that the creator says will make using the mod better (in blue on the default theme)
+* A link to support the creator financially
 * The files that are in the mod
 * Any extra mods that the mod requires, as long as they have manifests themselves (dependencies)
 * Any other mods that require the mod, as long as they have manifests themselves (dependants)
@@ -108,7 +108,7 @@ To learn more about Parlay, visit the [Parlay](https://plumbbuddy.app/text-guide
 
 ### [Pack Selector](https://plumbbuddy.app/features/pack-selector)
 
-Pack Selector lets you choose which of your installed packs will load without having to load into the game and then *reload* the game. If you choose to enable the toggle at the bottom left of the window, it will show you pack names and sort Stuff Packs and Kits separately. Otherwise, you'll see the pack type (EP, GP, or SP for expansion/game/stuff pack; kits are a kind of stuff pack) and number along with its icon.
+Pack Selector lets you choose which of your installed packs will load without having to load into the game and then *reload* the game. If you choose to enable the toggle at the bottom left of the window, it will show you pack names, sort Stuff Packs and Kits separately, and if you have ethe PlumbBuddy setting on, show the value of your selected and de-selected packs at full current price in US dollars. Otherwise, you'll see the pack type (EP, GP, or SP for expansion/game/stuff pack; kits are a kind of stuff pack) and number along with its icon.
 
 You can enable or disable all packs, all packs of a certain type, or whichever combination of packs you want.
 
@@ -124,6 +124,6 @@ PlumbBuddy will keep track of packs you disable using this pack selector and war
 
 Runtime Mod Integration allows script mods to communicate and interact with PlumbBuddy. They let mod creators make use of storage in a way that doesn't slow down the game, and lets them show you things projected from the mod to PlumbBuddy, if you let them.
 
-This is also the feature that allows mods to know if you have a controller connected and what buttons you have pressed.
+This is also the feature that allows mods to know if you have a controller connected and what buttons you have pressed, and that allows mods to track if you press certain buttons on your keyboard.
 
 ![image](/img/PB-controller-monitoring.png "The hover information that appears when a player has a controller connected, showing which buttons are currently being pressed")
