@@ -118,6 +118,12 @@ EP20:
   ea_stub: the-sims-4-adventure-awaits-expansion-pack
   steam_stub: 3548850
   retail_usd: 39.99
+EP21: # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
+  english_name: Royalty & Legacy
+  type: Expansion
+  ea_stub: the-sims-4-royalty-and-legacy-grand-bundle
+  steam_stub: 3548690
+  retail_usd: 39.99
 FP01:
   english_name: Holiday Celebration
   type: Free
@@ -765,6 +771,28 @@ SP74:
   is_creator_content: true
   steam_stub: 3765170
   retail_usd: 4.99
+SP75:
+  english_name: Wonderland Playroom
+  type: Stuff
+  sub_type: Kit
+  kit_type: BuildBuy
+  # ea_stub: NYI
+  # steam_stub: NYI
+  retail_usd: 4.99
+SP76: # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
+  english_name: Silver Screen Style
+  type: Kit
+  kit_type: CAS
+  ea_stub: the-sims-4-royalty-and-legacy-grand-bundle
+  steam_stub: 3548690
+  retail_usd: 0
+SP77: # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
+  english_name: Tea Time Solarium
+  type: Kit
+  kit_type: BuildBuy
+  ea_stub: the-sims-4-royalty-and-legacy-grand-bundle
+  steam_stub: 3548690
+  retail_usd: 0
 SP81:
   english_name: Prairie Dreams
   type: Stuff
@@ -773,4 +801,13 @@ SP81:
   ea_stub: the-sims-4-prairie-dreams-kit
   is_creator_content: true
   steam_stub: 3985830
+  retail_usd: 4.99
+SP82:
+  english_name: Yard Charm
+  type: Stuff
+  sub_type: Kit
+  kit_type: BuildBuy
+  # ea_stub: NYI
+  is_creator_content: true
+  # steam_stub: NYI
   retail_usd: 4.99
