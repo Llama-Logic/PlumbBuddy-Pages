@@ -779,21 +779,21 @@ SP75:
   # ea_stub: NYI
   # steam_stub: NYI
   retail_usd: 4.99
-SP76: # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
+SP76:
   english_name: Silver Screen Style
   type: Stuff
   sub_type: Kit
   kit_type: CAS
-  ea_stub: the-sims-4-royalty-and-legacy-grand-bundle
-  steam_stub: 3548690
+  ea_stub: the-sims-4-silver-screen-style-kit
+  steam_stub: 3765190
   retail_usd: 0
-SP77: # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
+SP77:
   english_name: Tea Time Solarium
   type: Stuff
   sub_type: Kit
   kit_type: BuildBuy
-  ea_stub: the-sims-4-royalty-and-legacy-grand-bundle
-  steam_stub: 3548690
+  ea_stub: the-sims-4-tea-time-solarium-kit
+  steam_stub: 3765200
   retail_usd: 0
 SP81:
   english_name: Prairie Dreams
