@@ -776,8 +776,8 @@ SP75:
   type: Stuff
   sub_type: Kit
   kit_type: BuildBuy
-  # ea_stub: NYI
-  # steam_stub: NYI
+  ea_stub: the-sims-4-wonderland-playroom-kit
+  steam_stub: 3765180
   retail_usd: 4.99
 SP76:
   english_name: Silver Screen Style
