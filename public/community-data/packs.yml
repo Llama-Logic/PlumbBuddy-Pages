@@ -809,7 +809,7 @@ SP82:
   type: Stuff
   sub_type: Kit
   kit_type: BuildBuy
-  # ea_stub: NYI
+  ea_stub: the-sims-4-yard-charm-kit
   is_creator_content: true
-  # steam_stub: NYI
+  steam_stub: 3986850
   retail_usd: 4.99
