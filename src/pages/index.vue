@@ -58,63 +58,6 @@
                 :md="4"
             >
                 <v-card
-                    color="grey"
-                    prepend-icon="mdi-laptop"
-                    subtitle="PlumbBuddy runs wherever The Sims 4 does."
-                    title="Multiplatform Support"
-                    :variant="vCardVariant"
-                >
-                    <v-card-text
-                        :class="vCardTextClass"
-                    >
-                        As long as it's a computer that EA supports for The Sims 4, it can also run PlumbBuddy.
-                        From desktops to laptops, from Windows to macOS.
-                    </v-card-text>
-                </v-card>
-            </v-col>
-            <v-col
-                :cols="12"
-                :md="4"
-            >
-                <v-card
-                    color="#DAA520"
-                    prepend-icon="mdi-power-plug-battery"
-                    subtitle="PlumbBuddy uses only what it needs."
-                    title="Resource and Power Efficient"
-                    :variant="vCardVariant"
-                >
-                    <v-card-text
-                        :class="vCardTextClass"
-                    >
-                        PlumbBuddy was specifically engineered to use minimal resources and energy on your computer, so it's safe to keep running in the background.
-                    </v-card-text>
-                </v-card>
-            </v-col>
-            <v-col
-                :cols="12"
-                :md="4"
-            >
-                <v-card
-                    color="green"
-                    prepend-icon="mdi-security"
-                    subtitle="PlumbBuddy is safe and respects privacy."
-                    title="Open Source &amp; Digitally Signed"
-                    :variant="vCardVariant"
-                >
-                    <v-card-text
-                        :class="vCardTextClass"
-                    >
-                        PlumbBuddy contains no ads, no tracking, and no malware.
-                        The code inside is publicly available.
-                        Every release is authenticated by Microsoft and Apple.
-                    </v-card-text>
-                </v-card>
-            </v-col>
-            <v-col
-                :cols="12"
-                :md="4"
-            >
-                <v-card
                     color="primary"
                     prepend-icon="mdi-bottle-tonic-plus"
                     subtitle="PlumbBuddy's always on the job."
@@ -126,7 +69,7 @@
                         :class="vCardTextClass"
                     >
                         PlumbBuddy continuously watches The Sims 4 for mod installation and config issues.
-                        The app starts automatically on PCs and can be launched on Macs.
+                        The app starts automatically on PCs and can be launched on Macs, and then watches from the background.
                     </v-card-text>
                 </v-card>
             </v-col>
@@ -147,6 +90,46 @@
                     >
                         Many mod creators register their mod updates with Lumpinou's Mod Hound.
                         You can use PlumbBuddy to quickly fetch Mod Hound reports for your mods.
+                    </v-card-text>
+                </v-card>
+            </v-col>
+            <v-col
+                :cols="12"
+                :md="4"
+            >
+                <v-card
+                    color="secondary"
+                    prepend-icon="mdi-archive-clock"
+                    subtitle="PlumbBuddy can safeguard your save games."
+                    title="Backs Up and Manages Saves"
+                    to="/features/archivist"
+                    :variant="vCardVariant"
+                >
+                    <v-card-text
+                        :class="vCardTextClass"
+                    >
+                        PlumbBuddy can put your save games in a safe place you choose, with compression that feels like magic.
+                        Make notes, search, manage timelines.
+                        Find the perfect place to go back to, or just watch it grow.
+                    </v-card-text>
+                </v-card>
+            </v-col>
+            <v-col
+                :cols="12"
+                :md="4"
+            >
+                <v-card
+                    color="tertiary"
+                    prepend-icon="mdi-access-point-network"
+                    subtitle="PlumbBuddy offers services to mod creators."
+                    title="Enhances Modded Gameplay"
+                    to="/features/runtime-mod-integration"
+                    :variant="vCardVariant"
+                >
+                    <v-card-text
+                        :class="vCardTextClass"
+                    >
+                        With PlumbBuddy, your mods gain the abilities to show customized user interfaces, use alternative input devices (controllers), and lessen their performance impact.
                     </v-card-text>
                 </v-card>
             </v-col>
@@ -176,26 +159,6 @@
             >
                 <v-card
                     color="secondary"
-                    prepend-icon="mdi-archive-clock"
-                    subtitle="PlumbBuddy can safeguard your save games."
-                    title="Backs Up and Manages Saves"
-                    to="/features/archivist"
-                    :variant="vCardVariant"
-                >
-                    <v-card-text
-                        :class="vCardTextClass"
-                    >
-                        PlumbBuddy can put your save games in a safe place you choose, with compression that feels like magic.
-                        Make notes, search, manage timelines.
-                    </v-card-text>
-                </v-card>
-            </v-col>
-            <v-col
-                :cols="12"
-                :md="4"
-            >
-                <v-card
-                    color="secondary"
                     prepend-icon="mdi-translate-variant"
                     subtitle="PlumbBuddy has side-by-side translation."
                     title="Translates to Any Language"
@@ -205,7 +168,32 @@
                     <v-card-text
                         :class="vCardTextClass"
                     >
-                        If a mod doesn't support a language you wish it did, PlumbBuddy has a feature-rich tool you can use to easily make a translation for it.
+                        If a mod doesn't support a language you wish it did, PlumbBuddy has a feature-rich tool you can use to easily make a translation for it in your chosen language.
+                    </v-card-text>
+                </v-card>
+            </v-col>
+            <v-divider 
+                :thickness="3" 
+                class="border-opacity-25"
+                color="info">
+            </v-divider>
+            <v-col
+                :cols="12"
+                :md="4"
+            >
+                <v-card
+                    color="green"
+                    prepend-icon="mdi-security"
+                    subtitle="PlumbBuddy is safe and respects privacy."
+                    title="Open Source &amp; Digitally Signed"
+                    :variant="vCardVariant"
+                >
+                    <v-card-text
+                        :class="vCardTextClass"
+                    >
+                        PlumbBuddy contains no ads, no tracking, and no malware.
+                        The code inside is publicly available.
+                        Every release is authenticated by Microsoft and Apple.
                     </v-card-text>
                 </v-card>
             </v-col>
@@ -214,18 +202,35 @@
                 :md="4"
             >
                 <v-card
-                    color="tertiary"
-                    prepend-icon="mdi-access-point-network"
-                    subtitle="PlumbBuddy offers services to mod creators."
-                    title="Enhances Modded Gameplay"
-                    to="/features/runtime-mod-integration"
+                    color="grey"
+                    prepend-icon="mdi-laptop"
+                    subtitle="PlumbBuddy runs wherever The Sims 4 does."
+                    title="Multiplatform Support"
                     :variant="vCardVariant"
                 >
                     <v-card-text
                         :class="vCardTextClass"
                     >
-                        With PlumbBuddy, your mods gain the abilities to show customized user interfaces, use alternative input devices, and lessen their performance impact.
+                        As long as it's a computer that EA supports for The Sims 4, it can also run PlumbBuddy.
+                        From desktops to laptops, from Windows to macOS.
                     </v-card-text>
+                </v-card>
+            </v-col>
+            <v-col
+                :cols="12"
+                :md="4"
+            >
+                <v-card
+                    color="#DAA520"
+                    prepend-icon="mdi-power-plug-battery"
+                    subtitle="PlumbBuddy uses only what it needs."
+                    title="Resource and Power Efficient"
+                    :variant="vCardVariant"
+                >
+                    <v-card-text
+                        :class="vCardTextClass"
+                    >
+                        PlumbBuddy was specifically engineered to use minimal resources and energy on your computer, so it's safe to keep running in the background.                    </v-card-text>
                 </v-card>
             </v-col>
         </v-row>
