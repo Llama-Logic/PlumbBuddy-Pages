@@ -118,10 +118,10 @@ EP20:
   ea_stub: the-sims-4-adventure-awaits-expansion-pack
   steam_stub: 3548850
   retail_usd: 39.99
-EP21: # stubs will be changed when the individual elements of the Royalty & Legacy bundle become purchasable
+EP21:
   english_name: Royalty & Legacy
   type: Expansion
-  ea_stub: the-sims-4-royalty-and-legacy-grand-bundle
+  ea_stub: the-sims-4-royalty-and-legacy-expansion-pack
   steam_stub: 3548690
   retail_usd: 39.99
 FP01:
@@ -795,6 +795,22 @@ SP77:
   ea_stub: the-sims-4-tea-time-solarium-kit
   steam_stub: 3765200
   retail_usd: 4.99
+SP78:
+  english_name: Masquerade Ball Fashion
+  type: Stuff
+  sub_type: Kit
+  kit_type: CAS
+  ea_stub: the-sims-4-lady-bridgerton-masquerade-ball-fashion-kit
+  steam_stub: 4429510
+  retail_usd: 6.99
+SP79:
+  english_name: Masquerade Ballroom
+  type: Stuff
+  sub_type: Kit
+  kit_type: BuildBuy
+  ea_stub: the-sims-4-lady-bridgerton-masquerade-ballroom-kit
+  steam_stub: 4429520
+  retail_usd: 6.99
 SP81:
   english_name: Prairie Dreams
   type: Stuff
