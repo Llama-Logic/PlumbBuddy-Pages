@@ -29,4 +29,4 @@ For example:
 * It's not seen as a good practice to paywall someone else's work, even if you updated it. Please consider that when uploading it.
 
 If you’re unsure, you might want to ask some other modders for advice.
-A good place to do that is [the Creator Musings Discord server](https://discord.com/invite/creator-musings-605863047654801428).
+A good place to do that is [the Creator Musings Discord server](https://discord.gg/yXK5mqXqNv).
