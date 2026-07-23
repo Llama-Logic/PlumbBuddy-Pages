@@ -811,6 +811,14 @@ SP79:
   ea_stub: the-sims-4-lady-bridgerton-masquerade-ballroom-kit
   steam_stub: 4429520
   retail_usd: 6.99
+SP80:
+  english_name: Music Den
+  type: Stuff
+  sub_type: Kit
+  kit_type: BuildBuy
+  ea_stub: the-sims-4-music-den-kit
+  steam_stub: 4717310
+  retail_usd: 4.99
 SP81:
   english_name: Prairie Dreams
   type: Stuff
