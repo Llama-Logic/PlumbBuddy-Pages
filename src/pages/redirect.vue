@@ -81,7 +81,7 @@
                     status.value = 'redirectNotFound';
                     return;
                 }
-                url.value = route.query.from === 'steam' ? `https://store.steampowered.com/app/${pack.steam_stub}` : `https://www.ea.com/games/the-sims/the-sims-4/store/addons/${pack.ea_stub}`;
+                url.value = route.query.from === 'steam' ? `https://store.steampowered.com/app/${pack.steam_stub}` : `https://www.ea.com/games/the-sims/the-sims-4/buy/addon/${pack.ea_stub}`;
             } else {
                 const redirect = YAML.parse(await (await fetch('/community-data/redirects.yml')).text())[route.query.to];
                 if (!redirect) {
