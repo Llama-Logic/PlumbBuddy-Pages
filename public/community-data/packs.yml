@@ -837,3 +837,17 @@ SP82:
   is_creator_content: true
   steam_stub: 3986850
   retail_usd: 4.99
+SP83:
+  english_name: Mean Girls Capsule
+  type: Stuff
+  sub_type: Kit
+  ea_stub: the-sims-4-mean-girls-capsule-kit
+  steam_stub: 4766040
+  retail_usd: 3.99
+SP84:
+  english_name: Clueless Capsule
+  type: Stuff
+  sub_type: Kit
+  ea_stub: the-sims-4-clueless-capsule-kit
+  steam_stub: 4766050
+  retail_usd: 3.99
